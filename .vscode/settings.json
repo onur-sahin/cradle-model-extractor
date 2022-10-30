@@ -1,0 +1,23 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "python",
+            "scheme": "vscode-notebook-cell",
+            "pattern": "c:\\Users\\adam\\Desktop\\cry_detection\\cry_classification.ipynb"
+        },
+        {
+            "language": "python",
+            "scheme": "file",
+            "pattern": "gram.py"
+        },
+        {
+            "language": "python",
+            "scheme": "vscode-notebook-cell",
+            "pattern": "c:\\Users\\adam\\Desktop\\cry_detection\\cry_classification.ipynb"
+        },
+        {
+            "language": "python",
+            "scheme": "vscode-notebook-cell"
+        }
+    ]
+}
